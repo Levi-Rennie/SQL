@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM loans WHERE due_on = '2025-06-15';
